@@ -5,7 +5,7 @@
  * Date: 2018/12/17
  * Time: 14:17
  */
-$str="1109063 millo 1";
+$str="1109063323232 millo 1";
 $arr=explode(" ",$str);
 echo $ip=$arr[0];
 echo "<br/>";
